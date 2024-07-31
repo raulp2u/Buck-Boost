@@ -2,10 +2,14 @@
 Buck-Boost Closed Loop Firmware and Hardware
 
 Components: 
-STM32F411CEU6 WeAct BlackPill
-LEM CASR25
-MUR 860G
-IRF530
+
+STM32F411CEU6 WeAct BlackPill;
+
+LEM CASR25;
+
+MUR 860G;
+
+IRF530;
 
 
 ![image](https://github.com/user-attachments/assets/79c8903a-d7b7-42f7-8a47-139d1d25b31f)
