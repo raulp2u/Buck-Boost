@@ -11,6 +11,7 @@ MUR 860G;
 
 IRF530;
 
+![image](https://github.com/user-attachments/assets/5db8aec2-745e-449b-aca9-3af2cb4e780e)
 
 ![image](https://github.com/user-attachments/assets/79c8903a-d7b7-42f7-8a47-139d1d25b31f)
 
@@ -18,4 +19,4 @@ IRF530;
 
 ![image](https://github.com/user-attachments/assets/1fdf337b-c7f3-4494-a0e6-5244705c22b3)
 
-![image](https://github.com/user-attachments/assets/5db8aec2-745e-449b-aca9-3af2cb4e780e)
+
